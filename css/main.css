@@ -1,0 +1,11 @@
+/* --- Google fonts --- */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:300,400,700');
+
+/* --- Components Design ---  */
+/*@import url("components/.css");*/
+
+/* --- Style --- */
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
